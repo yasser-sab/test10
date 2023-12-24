@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  line-height: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+}
+
+:root {
+  /* fonts */
+  --title-title-3: Poppins;
+  --body-body-4: Inter;
+  --font-sf-pro-text: "SF Pro Text";
+
+  /* font sizes */
+  --title-title-3-size: 16px;
+  --body-body-4-size: 14px;
+  --display-display-2-size: 26px;
+  --caption-caption-2-size: 13px;
+  --title-title-1-size: 22px;
+  --font-size-3xl-5: 22.5px;
+  --title-title-5-size: 15px;
+  --caption-caption-4-size: 12px;
+  --font-size-6xl: 25px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --white-white: #fff;
+  --primary-primary: #6f52ea;
+  --color-gray-100: #fcfcfe;
+  --dark-tones-dark-3: #23252f;
+  --dark-tones-dark: #19191c;
+  --dark-tones-dark-1: #131314;
+  --gray-tones-gray-5: #6c768a;
+  --accents-messages-warning: #f84800;
+  --secondary-shade-1: #20cdcd;
+  --gray-tones-gray-1: #f8f8f8;
+  --gray-tones-gray-2: #eaecf0;
+  --gray-tones-gray-4: #a0abc0;
+  --primary-shade-1: #5438cd;
+  --color-black: #000;
+  --main-colors-secondary: #2aadad;
+  --color-darkslategray-100: #434343;
+  --gray-tones-gray-41: #3c404b;
+  --shades-3b22a6: #3b22a6;
+  --gray-1: #b8bfcc;
+
+  /* Gaps */
+  --gap-sm: 14px;
+  --gap-5xs: 8px;
+  --gap-xl: 20px;
+  --gap-3xs: 10px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-xs: 12px;
+  --gap-7xs: 6px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-9xs: 4px;
+  --padding-mini: 15px;
+  --padding-3xs: 10px;
+  --padding-sm: 14px;
+  --padding-base: 16px;
+  --padding-8xs: 5px;
+  --padding-7xs: 6px;
+  --padding-xs: 12px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-xs: 12px;
+  --br-7xs: 6px;
+  --br-81xl: 100px;
+  --br-21xl: 40px;
+  --br-8xs-6: 4.6px;
+  --br-xl: 20px;
+  --br-29xl: 48px;
+  --br-8xs: 5px;
+
+  /* Effects */
+  --bottom-line: 0px -0.5px 0px #3c404b inset;
+}
